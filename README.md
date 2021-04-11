@@ -14,6 +14,28 @@ The yellow and green taxi trip records include fields capturing pick-up and drop
 
 This dataset contains a list of dpw maintained street trees including planting date, species and location. Data source: [DataSF](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq/data).
 
+**3- Block number Vancuver**
+
+**4- Graffiti number Vancuver**
+
+**5- Mean Average temperature**
+
+**6- NYPD shoots**
+
+**7- Earthsquares** 
+
+**8- UK moves**
+
+**9- San Francisco countour**
+
+## Install Kepler in Jupyter Notebook
+
+To install `kepler` in jupyter notebook visit the [oficial page](https://docs.kepler.gl/docs/keplergl-jupyter)
+
+    Prerequisites  
+    Python >= 2  
+    ipywidgets >= 7.0.0
+
 ## Libraries
 
 - [kepler](https://kepler.gl/)  
