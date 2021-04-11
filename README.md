@@ -1,12 +1,10 @@
 # Kepler maps
 
-![portada](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZz1j7jAmnPYiP2SjKgwxUyymVf0pxWz3-hw&usqp=CAU)
+![portada](https://lacontradejaen.com/img/galeria/2021/03/exposicion_mapas_diputacion_jaen-2-30-640.png)
 
-Kepler.gl is an open-source solution for geospatial data visualization and exploration. Kepler was developed by Uber to make it easier for users of all levels to design meaningful maps that also look good. The tool can handle large amounts of data and has a friendly, intuitive interface that allows users to build effective maps in an instant.
+`Kepler.gl` is an open-source solution for geospatial data visualization and exploration. Kepler was developed by Uber to make it easier for users of all levels to design meaningful maps that also look good. The tool can handle large amounts of data and has a friendly, intuitive interface that allows users to build effective maps in an instant.
 
-Kepler.gl is also a React component that uses Redux to manage its state and data flow. It can be embedded into other React-Redux applications and is highly customizable. For information on how to embed kepler.gl in your app take a look at this step-by-step tutorial on vis.academy.
-
-
+Kepler.gl is also a React component that uses Redux to manage its state and data flow. It can be embedded into other React-Redux applications and is highly customizable. 
 ## Data used in this repo
 
 **2 -NYC Taxi Trips**
