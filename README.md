@@ -28,13 +28,14 @@ This dataset contains a list of dpw maintained street trees including planting d
 
 **9- San Francisco countour**
 
+
 ## Install Kepler in Jupyter Notebook
 
 To install `kepler` in jupyter notebook visit the [oficial page](https://docs.kepler.gl/docs/keplergl-jupyter)
 
-    Prerequisites  
-    Python >= 2  
-    ipywidgets >= 7.0.0
+**Prerequisites**  
+- Python >= 2  
+- ipywidgets >= 7.0.0
 
 ## Libraries
 
