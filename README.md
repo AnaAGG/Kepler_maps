@@ -4,6 +4,20 @@
 
 `Kepler.gl` is an open-source solution for geospatial data visualization and exploration. Kepler was developed by Uber to make it easier for users of all levels to design meaningful maps that also look good. The tool can handle large amounts of data and has a friendly, intuitive interface that allows users to build effective maps in an instant.
 
+# Install Kepler in Jupyter Notebook
+
+To install `kepler` in jupyter notebook visit the [oficial page](https://docs.kepler.gl/docs/keplergl-jupyter)
+
+**Prerequisites**  
+- Python >= 2  
+- ipywidgets >= 7.0.0
+
+## Libraries
+
+- [kepler](https://kepler.gl/)  
+- [pandas](https://pandas.pydata.org/docs/)
+- [geopandas](https://geopandas.org/)
+
 # Main parameters
 ## Add_data `add_data()`
 Inputs: 
@@ -115,22 +129,11 @@ This dataset contains a list of dpw maintained street trees including planting d
 **9- San Francisco countour**
 
 
-## Install Kepler in Jupyter Notebook
 
-To install `kepler` in jupyter notebook visit the [oficial page](https://docs.kepler.gl/docs/keplergl-jupyter)
 
-**Prerequisites**  
-- Python >= 2  
-- ipywidgets >= 7.0.0
+## Further Materials
 
-## Libraries
-
-- [kepler](https://kepler.gl/)  
-- [pandas](https://pandas.pydata.org/docs/)
-- [geopandas](https://geopandas.org/)
-
-## More documentation
-
-https://kepler.gl/
-
-https://github.com/heshan0131/kepler.gl/blob/master/docs/a-introduction.md
+https://kepler.gl/  
+https://leadr-msu.github.io/kepler-gl/    
+https://github.com/heshan0131/kepler.gl  
+https://towardsdatascience.com4d-data-visualization-with-kepler-gl-b6bd6dd90451  
