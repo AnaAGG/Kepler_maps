@@ -12,11 +12,6 @@ To install `kepler` in jupyter notebook visit the [oficial page](https://docs.ke
 - Python >= 2  
 - ipywidgets >= 7.0.0
 
-## Libraries
-
-- [kepler](https://kepler.gl/)  
-- [pandas](https://pandas.pydata.org/docs/)
-- [geopandas](https://geopandas.org/)
 
 # Main parameters
 ## Add_data `add_data()`
@@ -104,7 +99,7 @@ You can export your current map as an interactive html file.
     map_1.save_to_html(file_name='first_map.html' read_only=True)
     ```
 
-## Data used in this repo
+# Data used in this repo
 
 **1 -NYC Taxi Trips**
 
@@ -114,19 +109,35 @@ The yellow and green taxi trip records include fields capturing pick-up and drop
 
 This dataset contains a list of dpw maintained street trees including planting date, species and location. Data source: [DataSF](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq/data).
 
-**3- Block number Vancuver**
+**3- Block and block number Vancouver** 
 
-**4- Graffiti number Vancuver**
+**Block** outlines are one dataset among many that provide information about property. Other related datasets can be found by filtering on the Property keyword. This data in City systems is updated frequently in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database.  The extract on this website is updated weekly.  
 
-**5- Mean Average temperature**
+**Graffiti** This data set provides information on the location of sites with graffiti as identified by City staff. This data in City systems is updated in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database. The extract on this web site is updated weekly.
 
-**6- NYPD shoots**
+Data source: [opendatavancouver](https://opendata.vancouver.ca/)
 
-**7- Earthsquares** 
 
-**8- UK moves**
+**4- NYPD shoots**
 
-**9- San Francisco countour**
+**5- Earthquake** 
+
+The Significant Earthquake Database is a global listing of over 5,700 earthquakes from 2150 BC to the present. A significant earthquake is classified as one that meets at least one of the following criteria: caused deaths, caused moderate damage (approximately $1 million or more), magnitude 7.5 or greater, Modified Mercalli Intensity (MMI) X or greater, or the earthquake generated a tsunami. The database provides information on the date and time of occurrence, latitude and longitude, focal depth, magnitude, maximum MMI intensity, and socio-economic data such as the total number of casualties, injuries, houses destroyed, and houses damaged, and $ dollage damage estimates. [More info](https://catalog.data.gov/dataset/global-significant-earthquake-database-2150-bc-to-present) 
+
+Data from kaggle: [earthquake](https://www.kaggle.com/mohitkr05/global-significant-earthquake-database-from-2150bc)  
+
+**6- UK moves**
+This dataset shows location of residence and place of work, based on 2011 Census of residence of England and Wales. The data classifies people currently resident in each middle layer super output area, or higher area and shows the movement between their area of residence and workplace. 
+
+Data source: [Nomis](https://www.nomisweb.co.uk/census/2011/wu03uk/chart)
+
+**7- San Francisco countour**
+
+This dataset contains a list of dpw maintained street trees including planting date, species and location.  
+
+Data source: [DataSF](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq/data)
+
+
 
 
 
@@ -134,6 +145,13 @@ This dataset contains a list of dpw maintained street trees including planting d
 ## Further Materials
 
 https://kepler.gl/  
-https://leadr-msu.github.io/kepler-gl/    
+https://leadr-msu.github.io/kepler-gl/   
+https://github.com/uber-web/kepler.gl-data   
 https://github.com/heshan0131/kepler.gl  
 https://towardsdatascience.com4d-data-visualization-with-kepler-gl-b6bd6dd90451  
+
+### Libraries documentation
+
+- [kepler](https://kepler.gl/)  
+- [pandas](https://pandas.pydata.org/docs/)
+- [geopandas](https://geopandas.org/)
