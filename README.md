@@ -148,7 +148,8 @@ https://kepler.gl/
 https://leadr-msu.github.io/kepler-gl/   
 https://github.com/uber-web/kepler.gl-data   
 https://github.com/heshan0131/kepler.gl  
-https://towardsdatascience.com4d-data-visualization-with-kepler-gl-b6bd6dd90451  
+https://towardsdatascience.com4d-data-visualization-with-kepler-gl-b6bd6dd90451
+https://towardsdatascience.com/kepler-gl-jupyter-notebooks-geospatial-data-visualization-with-ubers-opensource-kepler-gl-b1c2423d066f 
 
 ### Libraries documentation
 
