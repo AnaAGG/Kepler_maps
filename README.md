@@ -1,6 +1,6 @@
 # Kepler maps
 
-![portada](https://miro.medium.com/max/1440/1*bB0OTIKP51yoKgKG6Bd9zg.gif)
+![portada](https://i.pinimg.com/originals/6e/13/10/6e13104be2d4ace5be943d0cf26fa33a.gif)
 
 `Kepler.gl` is an open-source solution for geospatial data visualization and exploration. Kepler was developed by Uber to make it easier for users of all levels to design meaningful maps that also look good. The tool can handle large amounts of data and has a friendly, intuitive interface that allows users to build effective maps in an instant.
 
